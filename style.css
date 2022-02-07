@@ -1,0 +1,35 @@
+#main {
+  color: rgb(17, 0, 255);
+  background-color: darkturquoise;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.big {
+  color: #FFFF00;
+  background-color: #cccccc;
+  text-align: center;
+  border-style: dotted;
+  border-color: darksalmon;
+}
+ul {
+  color: green;
+  font-weight: bold;
+  font-style: italic
+}
+div .underline {
+  text-decoration: line-through;
+  color: crimson;
+  font-size: 20px;
+  font-weight: bold;
+}
+div {
+  border-color: red;
+  border-width: 3px;
+  border-style: dashed;
+  background-color: hotpink;
+  margin-top: 30px;
+  padding-left: 20px;
+  letter-spacing: 5px;
+  word-spacing: 20px;
+}
